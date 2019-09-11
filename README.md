@@ -12,6 +12,7 @@ pod 'HBGlobalProgressHud', '0.0.2'
 
 2. xxxx.m
 
+#import<HBGlobalProgressHud/HBGlobalProgressHud.h>
 
 use toast
 ```
